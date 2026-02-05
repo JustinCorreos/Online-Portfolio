@@ -1,3 +1,4 @@
+Demo for learining git
 # Project Title
 
 This is a simple web project built using HTML, CSS, and JavaScript.
